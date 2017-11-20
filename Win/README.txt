@@ -1,0 +1,1 @@
+﻿This is a simple project designed with the MVP and ICommand patterns.
